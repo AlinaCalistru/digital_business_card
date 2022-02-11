@@ -1,3 +1,9 @@
+# My Digital Business Card
+I wanted to practice my React skills, so I stared with a small project that would include a few React functionalities.  
+The project uses React components to separate different sections of the card.  
+I have also used Google fonts and Font awesome for icons.  
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
