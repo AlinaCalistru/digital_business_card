@@ -5,7 +5,7 @@ export default function Footer(){
     <>
     <div className="section footer"> 
         <a className="social-lin" href="https://www.linkedin.com/in/alina-calistru/" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={['fab', 'linkedin']} /></a>
-        <a className="social-git" href="https://www.linkedin.com/in/alina-calistru/" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={['fab', 'github']} /></a>
+        <a className="social-git" href="https://github.com/AlinaCalistru/" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={['fab', 'github']} /></a>
   
     </div>
     </>
