@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import alina from "../images/alina.jpg";
+import alina from "../images/alina_calistru_400.jpg";
 
 export default function About() {
   return (
