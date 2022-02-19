@@ -14,20 +14,11 @@ export default function About() {
         <h3>Frontend Developer</h3>
 
         <div className="container-btn">
-          <a target="_blank" href="http://alina.acerdream.com" className="btn ">
+          <a target="_blank" href="https://alina-calistru.netlify.app" className="btn " rel="noreferrer">
             <FontAwesomeIcon icon={["fab", "github"]} /> Portfolio
           </a>
 
-          <a
-            className="btn btn-dark"
-            onClick={() =>
-              window.open(
-                "https://www.linkedin.com/in/alina-calistru/",
-                "_blank"
-              )
-            }
-          >
-            {" "}
+          <a className="btn btn-dark" href="https://www.linkedin.com/in/alina-calistru/" target="_blank"  rel="noreferrer" >
             <FontAwesomeIcon icon={["fab", "linkedin"]} /> Linkedin
           </a>
         </div>
