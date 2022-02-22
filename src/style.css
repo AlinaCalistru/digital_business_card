@@ -27,8 +27,8 @@ p {
 }
 
 .content {
-  max-width: 317px;
-  margin: 30px auto;
+  width: 95%;
+  margin: 15px auto;
 }
 
 .section {
@@ -104,4 +104,11 @@ p {
   margin: 0 15px;
   cursor: pointer;
   color: #ffffff;
+}
+
+
+@media screen and (min-width: 600px) {
+  .content{
+    max-width:400px;
+  }
 }
