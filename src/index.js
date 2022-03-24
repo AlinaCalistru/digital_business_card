@@ -9,5 +9,4 @@ import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
 
 library.add(fab, faEnvelope)
 
-
 ReactDOM.render(<App />, document.getElementById("root"));
